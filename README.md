@@ -6,3 +6,5 @@ git clone https://github.com/INY0NG/iseng
 cd iseng
 ls
 php call.php
+
+Udah GOSONG SCRIPTNYA
